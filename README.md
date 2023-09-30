@@ -1,6 +1,6 @@
 
 
-# Technologies Used
+# Programming Languages
 
 <div>
 <img loading="lazy" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black&color=black&labelColor=orange"/>
