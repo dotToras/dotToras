@@ -12,6 +12,17 @@
 
 </div>
 
+# Tools
+
+<div>
+
+<img loading="lazy" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black&color=black&labelColor=orange"/>
+<img loading="lazy" src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=black&color=black&labelColor=orange"/>
+<img loading="lazy" src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=black&color=black&labelColor=orange"/>
+<img loading="lazy" src="https://img.shields.io/badge/Git%20Bash-181717?style=for-the-badge&logo=git&logoColor=black&color=black&labelColor=orange"/>
+
+</div>
+
 # Stats
 
 <div>
